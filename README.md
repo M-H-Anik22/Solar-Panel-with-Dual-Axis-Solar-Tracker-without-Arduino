@@ -1,1 +1,1 @@
-# Solar-Panel-with-Dual-Axis-Solar-Tracker-without-Arduino
+# Solar Panel with Dual Axis Solar Tracker without Arduino
